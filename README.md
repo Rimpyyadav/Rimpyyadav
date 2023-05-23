@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rimpyyadav
-- 👀 I’m interested in Backend web dev
-- 🌱 I’m currently learning Javascript and Backend
+- 👋 Hi, I’m @Rimpyyadav, 
+- 👀 I’m interested in Backend web development , 
+- 🌱 I’m currently learning Javascript and Backend,
 - 📫 How to reach me...
 - https://linkedin.com/in/rimpy-yadav-ab1581271
 - https://twitter.com/Rimpyadav?t=jvQIKKEVJy-IwXyasNxNAQ&s=08
