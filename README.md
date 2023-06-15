@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rimpyyadav, 
-- 👀 I’m interested in Backend web development , 
+- 👀 I’m interested in Backend web development , (MERN DEV) 
 - 🌱 I’m currently learning Javascript and Backend,
 - 📫 How to reach me...
 - https://linkedin.com/in/rimpy-yadav-ab1581271
