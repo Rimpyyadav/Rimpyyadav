@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Javascript and Backend,
 - 📫 How to reach me...
 - https://linkedin.com/in/rimpy-yadav-ab1581271
-- https://twitter.com/Rimpyadav?t=jvQIKKEVJy-IwXyasNxNAQ&s=08
 - rimpyyadav353@gmail.com
 
 <!---
